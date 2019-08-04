@@ -1,0 +1,20 @@
+{
+  "name": "selfish",
+  "version": "1.0.0",
+  "description": "selfish api",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysz0602/Selfish.git"
+  },
+  "author": "ysz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ysz0602/Selfish/issues"
+  },
+  "homepage": "https://github.com/ysz0602/Selfish#readme"
+}
